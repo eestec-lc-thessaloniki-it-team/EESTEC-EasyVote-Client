@@ -12,9 +12,9 @@ in order to make your code
 2) Easy to maintain
 3) Easy to develop.
 
-Flutter is big with Widgets. Widgets are packs of codes that work like Classes but they are mainly used for UI components.
+Flutter is big with Widgets. Widgets are packs of code that work like Classes but they are mainly used for UI components.
 Other than that, every Widget has a child that takes another Widget as a paramater. This basically creates the "DOM tree"
-(It's not actually a DOM Tree since it's not HTML).
+(It's not actually a DOM Tree, since it's not HTML).
 
 # Dart
 
